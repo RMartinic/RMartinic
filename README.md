@@ -86,12 +86,4 @@ Flight search application that integrates with external APIs to retrieve and dis
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
-- ![LinkedIn](https://www.linkedin.com/in/roko-martini%C4%87-21149a342/)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roko-martinić-21149a342/)
