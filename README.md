@@ -62,7 +62,7 @@ Full-stack football analytics platform that collects and visualizes **Fantasy Pr
 **Tech**
 - Django (Backend API)
 - React (Frontend)
-- PostgreSQL
+- SQLite
 - Chart.js
 
 ---
@@ -86,4 +86,4 @@ Flight search application that integrates with external APIs to retrieve and dis
 
 ---
 
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roko-martinić-21149a342/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roko-martinić-21149a342/)
